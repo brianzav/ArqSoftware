@@ -1,8 +1,4 @@
-package desafio1.entities;
-
-import desafio1.entities.Funcionario;
-import desafio1.entities.PessoaFisica;
-import desafio1.entities.PessoaJuridica;
+package desafio1;
 
 public class Main {
 

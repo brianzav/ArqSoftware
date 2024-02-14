@@ -1,4 +1,4 @@
-package desafio1.entities;
+package desafio1;
 
 public abstract class Pessoa {
     private String nome;
