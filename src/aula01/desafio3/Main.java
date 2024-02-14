@@ -1,4 +1,4 @@
-package desafio3;
+package aula01.desafio3;
 
 public class Main {
     public static void main(String[] args) {

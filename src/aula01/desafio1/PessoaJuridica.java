@@ -1,4 +1,4 @@
-package desafio1;
+package aula01.desafio1;
 
 public class PessoaJuridica extends Pessoa{
     private long cnpj;

@@ -1,4 +1,4 @@
-package desafio1;
+package aula01.desafio1;
 
 public abstract class Pessoa {
     private String nome;

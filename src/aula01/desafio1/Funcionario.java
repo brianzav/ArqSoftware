@@ -1,4 +1,4 @@
-package desafio1;
+package aula01.desafio1;
 
 public class Funcionario extends PessoaFisica {
     private int matricula;
