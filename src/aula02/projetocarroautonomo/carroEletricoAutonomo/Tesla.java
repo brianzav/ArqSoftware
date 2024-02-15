@@ -60,8 +60,8 @@ public class Tesla implements CarroEletricoAutonomo {
 
     @Override
     public void definirRota(String partida, String destino) {
-        System.out.println("Rota - partida: " + partida
-                + "Destino: " + destino);
+        System.out.println("Rota - partida: " + this.partida
+                + "Destino: " + this.destino);
     }
 
     @Override
